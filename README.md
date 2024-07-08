@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hi, I’m Abdelrahman Mohsen
+👀 I’m interested in Coding & Ai
+💞️ I’m looking to collaborate on Coding Projects?
+📫 How to reach me abdelrahman_mohsen16@icloud.com - +201271332020
+💻 My Linkedin Profile : https://www.linkedin.com/in/abdelrahman-mohsen-2903bb233/
+
 
 <!--
 **Boodiiz/Boodiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
